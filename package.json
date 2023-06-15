@@ -1,9 +1,9 @@
 {
-  "name": "scribble-diffusion",
-  "description": "Turn your sketch into a refined image using AI",
-  "appName": "Scribble Diffusion",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "name": "epsilon-artist",
+  "description": "Make your shitty art marginally better",
+  "appName": "Epsilon Artist",
+  "appSubtitle": "Make your shitty art marginally better",
+  "appMetaDescription": "Make your shitty art marginally better",
   "version": "1.0.0",
   "private": true,
   "scripts": {
